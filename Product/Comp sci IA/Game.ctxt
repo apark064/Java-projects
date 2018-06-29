@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=
+comment0.target=java.lang.String\ chooseRandomWedgeValue()
+comment1.params=puzzle\ revealLetters
+comment1.target=java.lang.String\ maskPuzzle(java.lang.String,\ boolean)
+comment1.text=\r\n\ Given\ a\ puzzle,\ return\ a\ masked\ version,\ with\ hidden\ letters\r\n
+comment2.params=
+comment2.target=java.lang.String\ chooseRandomPuzzle()
+comment3.params=choice
+comment3.target=boolean\ isValidMenuChoice(int)
+comment4.params=inputCase
+comment4.target=char\ inputLetter(int)
+comment5.params=
+comment5.target=void\ gameMenu()
+numComments=6

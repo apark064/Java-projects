@@ -1,0 +1,44 @@
+Class documentation
+<---- javadoc command: ---->
+D:\BlueJ\jdk\bin\javadoc.exe
+-author
+-version
+-nodeprecated
+-package
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+1.8
+-classpath
+D:\BlueJ\lib\bluejcore.jar;D:\BlueJ\lib\junit-4.8.2.jar;D:\BlueJ\lib\userlib\pi4j-core.jar;D:\BlueJ\lib\userlib\pi4j-device.jar;D:\BlueJ\lib\userlib\pi4j-gpio-extension.jar;D:\BlueJ\lib\userlib\pi4j-service.jar;D:\Comp sci IA
+-d
+D:\Comp sci IA\doc
+-encoding
+UTF-8
+-charset
+UTF-8
+-docletpath
+D:\BlueJ\lib\bjdoclet.jar
+-doclet
+bluej.doclet.doclets.formats.html.HtmlDoclet
+D:\Comp sci IA\Game.java
+<---- end of javadoc command ---->
+Loading source file D:\Comp sci IA\Game.java...
+D:\Comp sci IA\Game.java:201: error: illegal start of expression
+        public static void gameMenu() {
+        ^
+D:\Comp sci IA\Game.java:201: error: illegal start of expression
+        public static void gameMenu() {
+               ^
+D:\Comp sci IA\Game.java:201: error: ';' expected
+        public static void gameMenu() {
+                     ^
+D:\Comp sci IA\Game.java:201: error: ';' expected
+        public static void gameMenu() {
+                                     ^
+D:\Comp sci IA\Game.java:365: error: reached end of file while parsing
+    }
+     ^
+5 errors
